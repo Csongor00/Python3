@@ -1,4 +1,4 @@
-név = input("Mi a vezetek neved")
-print('Csongor ', név,)
-print('es mi a kereszt neved.')
-print("Szilagyi")
+vezetek = input("Mi a vezetek neved"'\n')
+print('Csongor',vezetek,'\n')
+kereszt = input("Mi a kereszt neved"'\n')
+print("Szilagyi" ,kereszt,)
